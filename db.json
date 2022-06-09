@@ -1,4 +1,11 @@
 {
+  
+  "user": {
+    "id": 1,
+    "username": "skumar",
+    "email": "skumar@mailinator.com",
+    "password": "skumar123"
+  },
   "users": [
     {
       "id": 1,
