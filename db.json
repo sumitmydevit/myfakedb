@@ -4,7 +4,8 @@
     "id": 1,
     "username": "skumar",
     "email": "skumar@mailinator.com",
-    "password": "skumar123"
+    "password": "skumar123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjMsIm5hbWUiOiJza3VtYXIiLCJpYXQiOjE2NTQ2Njk4MzksImV4cCI6MTgxMjM0OTgzOX0.-xFvjBjL0YUvDCzc3W6DRxlsMIaT_IQiw85_qL11eAM"
   },
   "users": [
     {
