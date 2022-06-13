@@ -5,6 +5,16 @@
     "username": "skumar",
     "email": "skumar@mailinator.com",
     "password": "skumar123",
+    "addresses": [
+      {
+        "title": "Rajendra Puram",
+        "house_number": 203,
+        "area": "Centra Vista Colony",
+        "city": "Lorem",
+        "state": "Maharastra",
+        "Country": "Afganistan"
+      }
+    ],
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjMsIm5hbWUiOiJza3VtYXIiLCJpYXQiOjE2NTQ2Njk4MzksImV4cCI6MTgxMjM0OTgzOX0.-xFvjBjL0YUvDCzc3W6DRxlsMIaT_IQiw85_qL11eAM"
   },
   "users": [
