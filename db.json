@@ -26,8 +26,14 @@
     },
     {
       "id": 2,
-      "username": "skumar1",
-      "email": "skumar1@mailinator.com",
+      "username": "skumar2",
+      "email": "skumar2@mailinator.com",
+      "password": "skumar123"
+    },
+    {
+      "id": 3,
+      "username": "skumar3",
+      "email": "skumar3@mailinator.com",
       "password": "skumar123"
     }
   ],
