@@ -35,6 +35,12 @@
       "username": "skumar3",
       "email": "skumar3@mailinator.com",
       "password": "skumar123"
+    },
+    {
+      "id": 4,
+      "username": "skumar4",
+      "email": "skumar4@mailinator.com",
+      "password": "skumar123"
     }
   ],
   "posts": [
